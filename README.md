@@ -18,7 +18,7 @@
   <h3 align="center">About-me</h3>
 
    <div align="center">
-     Hello, I am <a href="" target="_blank"><b>Jhonatas</b></a> A freelance fullstack developer who has just entered the job market
+     Hello, I am <a href="https://jhonatascoder.netlify.app/" target="_blank"><b>Jhonatas</b></a> A freelance fullstack developer who has just entered the job market
     </div>
 </div>
 

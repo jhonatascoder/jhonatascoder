@@ -12,7 +12,6 @@
     <img src="https://img.shields.io/badge/-React.Js_-black?style=for-the-badge&logoColor=black&logo=react&color=4FF4FF" alt="react.js" />
     <img src="https://img.shields.io/badge/-Node.Js_-black?style=for-the-badge&logoColor=black&logo=node.js&color=68FF89" alt="node.js" />
     <img src="https://img.shields.io/badge/-Tailwind_-black?style=for-the-badge&logoColor=black&logo=tailwindcss&color=68C9FF" alt="tailwind" />
-    <img src="https://img.shields.io/badge/-Jquery_-black?style=for-the-badge&logoColor=white&logo=jquery&color=9969FF" alt="jquery" />
   </div>
 
   <h3 align="center">About-me</h3>

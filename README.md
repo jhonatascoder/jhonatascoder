@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://youtu.be/oKIThIihv60" target="_blank">
-      <img src="https://cdn.discordapp.com/attachments/1079570865089417396/1220836957051945061/Banner_White.png?ex=66106404&is=65fdef04&hm=a28687f3cf802313681485576b85d4521566927a5d5d4ddc1021c7b2886b786e&" alt="Project Banner">
+      <img src="https://cdn.discordapp.com/attachments/1079570865089417396/1236460310492217425/Banner_GitHub.png?ex=663816e6&is=6636c566&hm=7ba2681bd3c1a55864d3801c00c55858b891a911df631daaa0c107ec8d4fe740&" alt="Project Banner">
     </a>
   <br />
 
@@ -17,13 +17,6 @@
   <h3 align="center">About-me</h3>
 
    <div align="center">
-     Hello, I am <a href="https://jhonatascoder.netlify.app/" target="_blank"><b>Jhonatas</b></a> A freelance fullstack developer who has just entered the job market
+     Hello, I am <a href="https://erlckz.com/" target="_blank"><b>Erlckz</b></a> A freelance fullstack developer who has just entered the job market
     </div>
 </div>
-
-## ⚙️ <a name="table">Specialties</a>
-
-1. 🌐 [WebSites](#websites)
-2. ⚙️ [Applications](#applications)
-3. 💻 [Design UI and Graphic](#design)
-4. 🧶 [Multi Theft Auto Sources](#mta)

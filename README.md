@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://youtu.be/oKIThIihv60" target="_blank">
-      <img src="https://cdn.discordapp.com/attachments/1079570865089417396/1236460310492217425/Banner_GitHub.png?ex=663816e6&is=6636c566&hm=7ba2681bd3c1a55864d3801c00c55858b891a911df631daaa0c107ec8d4fe740&" alt="Project Banner">
+      <img src="https://cdn.discordapp.com/attachments/1079570865089417396/1236863222980673648/Banner_GitHub_Black.png?ex=66398e24&is=66383ca4&hm=e4fff612a30c60e6bfad7b2cbf1c7717a7391f20b48225763a1768fbd0a48bdd&" alt="Project Banner">
     </a>
   <br />
 

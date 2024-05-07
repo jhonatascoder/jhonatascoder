@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/oKIThIihv60" target="_blank">
+    <a href="" target="_blank">
       <img src="https://cdn.discordapp.com/attachments/1079570865089417396/1236863222980673648/Banner_GitHub_Black.png?ex=66398e24&is=66383ca4&hm=e4fff612a30c60e6bfad7b2cbf1c7717a7391f20b48225763a1768fbd0a48bdd&" alt="Project Banner">
     </a>
   <br />
